@@ -1,4 +1,3 @@
-```md
 # 💫 About Me
 
 🔭 Building backend systems, AI-powered applications, and agentic workflows.  
