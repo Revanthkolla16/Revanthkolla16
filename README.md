@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on  <br>Backend systems, AI-powered applications, and agentic workflows.<br><br>👯 I’m looking to collaborate on  <br>Software engineering and AI projects involving LLMs, automation, and scalable systems.<br><br>🤝 I’m looking for help with  <br>Building production-ready AI applications and improving system architecture.<br><br>🌱 I’m currently learning  <br>Machine learning, advanced AI systems, System Design and scalable software engineering.<br><br>💬 Ask me about  <br>Data Structures, Algorithms, Python, LLMs, RAG, AI agents, and system design.<br><br>⚡ Fun fact  <br>Basketball is basically my excuse to touch grass.
+🔭 I’m currently working on Backend systems, AI-powered applications, and agentic workflows.<br>👯 I’m looking to collaborate on Software engineering and AI projects involving LLMs, automation, and scalable systems.<br>🤝 I’m looking for help with Building production-ready AI applications and improving system architecture.<br>🌱 I’m currently learning Machine learning, advanced AI systems, System Design and scalable software engineering.<br>💬 Ask me about Data Structures, Algorithms, Python, LLMs, RAG, AI agents, and system design.<br>⚡ Fun fact Basketball is basically my excuse to touch grass.
 
 
 ## 🌐 Socials:
